@@ -1,0 +1,5 @@
+name= "Form Override"
+description= "Overrides login form"
+core= "7.x"
+php= "5.3.10"
+version= "7.x-56"
